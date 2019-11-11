@@ -12,16 +12,16 @@
 	<nav class="navbar navbar-expand-sm bg-dark">
 		<ul class="navbar-nav">
 			<li class="nav-item">
-				<a id="index" class="navbar-brand" href="{{url('welcome')}}">Welcome</a>
+				<a id="index" class="navbar-brand" href="{{url('welcome')}}">JAWAD SAB</a>
 			</li>
 			<li class="nav-item">
-				<a id="index" class="navbar-brand" href="{{url('about')}}">About</a>
+				<a id="index" class="navbar-brand" href="{{url('about')}}">CHUTIA</a>
 			</li>
 			<li class="nav-item">
-				<a id="index" class="navbar-brand" href="{{url('myinfo')}}">My Info</a>
+				<a id="index" class="navbar-brand" href="{{url('myinfo')}}">BC</a>
 			</li>
 			<li class="nav-item">
-				<a id="index" class="navbar-brand" href="{{url('test')}}">Test</a>
+				<a id="index" class="navbar-brand" href="{{url('test')}}">MC</a>
 			</li>
 			
 		</ul>
