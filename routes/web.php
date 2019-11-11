@@ -15,9 +15,7 @@
 Route::get('/welcome', function () {
     return view('welcome');
 });
-Route::get('/', function () {
-    return view('jawad1');
-});
+
 Route::get('/myinfo', function () {
     return view('myinfo');
 });
@@ -25,6 +23,9 @@ Route::get('/myinfo', function () {
 Route::get('/test', function () {
     return view('test');
 });
-Route::get('/jawad1',function()){
-	return (view('jawad1'));
-}
+Route::get('/',function (){
+	return view('jawad');
+});
+Route::get('/talha',function (){
+	return view('talha');
+});

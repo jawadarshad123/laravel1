@@ -1,5 +1,5 @@
 @extends('layout')
-@section('title','about','jawad','myinfo','test')
+@section('title','about','jawad','talha','myinfo','test')
 @section('navbar')
 @parent
 

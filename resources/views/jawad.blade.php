@@ -12,7 +12,7 @@
 	<nav class="navbar navbar-expand-sm bg-dark">
 		<ul class="navbar-nav">
 			<li class="nav-item">
-				<a id="index" class="navbar-brand" href="{{url('welcome')}}">JAWAD SAB</a>
+				<a id="index" class="navbar-brand" href="{{url('jawad')}}">JAWAD SAB</a>
 			</li>
 			<li class="nav-item">
 				<a id="index" class="navbar-brand" href="{{url('about')}}">CHUTIA</a>
@@ -21,7 +21,7 @@
 				<a id="index" class="navbar-brand" href="{{url('myinfo')}}">BC</a>
 			</li>
 			<li class="nav-item">
-				<a id="index" class="navbar-brand" href="{{url('test')}}">MC</a>
+				<a id="index" class="navbar-brand" href="{{url('talha')}}">Talha</a>
 			</li>
 			
 		</ul>

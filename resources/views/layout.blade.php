@@ -15,13 +15,13 @@
 				<a id="index" class="navbar-brand" href="{{url('welcome')}}">Welcome</a>
 			</li>
 			<li class="nav-item">
-				<a id="index" class="navbar-brand" href="{{url('about')}}">About</a>
+				<a id="index" class="navbar-brand" href="{{url('jawad')}}">About</a>
 			</li>
 			<li class="nav-item">
 				<a id="index" class="navbar-brand" href="{{url('myinfo')}}">My Info</a>
 			</li>
 			<li class="nav-item">
-				<a id="index" class="navbar-brand" href="{{url('test')}}">Test</a>
+				<a id="index" class="navbar-brand" href="{{url('talha')}}">Talha</a>
 			</li>
 			
 		</ul>
